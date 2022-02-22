@@ -1,0 +1,35 @@
+[
+    {
+        "id": "44f10d63-af51-4e5b-8d98-34039aef315a",
+        "nombreTrabajador": "Pedro",
+        "grado": "Ingeniero",
+        "codigo": "",
+        "sexo": "masculino",
+        "descripcion": "",
+        "calificacion": "",
+        "empleo": "",
+        "id_key": "1"
+    },
+    {
+        "id": "628af2b0-4168-488b-bc06-0a1b490baa8c",
+        "nombreTrabajador": "Luis",
+        "grado": "Ingeniero",
+        "codigo": "",
+        "sexo": "masculino",
+        "descripcion": "",
+        "calificacion": "",
+        "empleo": "",
+        "id_key": "2"
+    },
+    {
+        "id": "ebd28de7-8b49-4150-b44a-5a8019920335",
+        "nombreTrabajador": "Focho",
+        "grado": "Licenciado",
+        "codigo": "",
+        "sexo": "masculino",
+        "descripcion": "",
+        "calificacion": "",
+        "empleo": "",
+        "id_key": "2"
+    }
+]

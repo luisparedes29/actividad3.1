@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "nombreEmpresa": "zucaritas",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1500",
+        "calificacion": "5",
+        "grado": "ingenierio de sistemas"
+    },
+    {
+        "id": 1,
+        "nombreEmpresa": "kellogs",
+        "cargo": "contador",
+        "sueldo": "1200",
+        "calificacion": "9",
+        "grado": "licenciado"
+    },
+    {
+        "id": 2,
+        "nombreEmpresa": "pepsi",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1000",
+        "calificacion": "7",
+        "grado": "ingenierio de sistemas"
+    },
+    {
+        "id": 3,
+        "nombreEmpresa": "mazda",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1500",
+        "calificacion": "3",
+        "grado": "ingenierio"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id":0,
+        "nombreTrabajador":"sofia rojas",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1200",
+        "calificacion": "3",
+        "grado": "ingenierio de sistemas"
+    },
+    {
+        "id": 1,
+        "nombreTrabajador": "Luis Paredes",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1300",
+        "calificacion": "7",
+        "grado": "ingenierio de sistemas"
+    },
+    {
+        "id": 2,
+        "nombreTrabajador": " Paredes",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1000",
+        "calificacion": "7",
+        "grado": "ingenierio"
+    },
+    {
+        "id": 3,
+        "nombreTrabajador": "rosiris",
+        "cargo": "gerente de sistemas",
+        "sueldo": "1000",
+        "calificacion": "5",
+        "grado": "tecnico"
+    }
+]

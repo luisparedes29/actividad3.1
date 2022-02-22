@@ -1,0 +1,30 @@
+[
+    {
+        "id": "76ce2d1e-058d-4f6e-a247-a497bef2936f",
+        "nombreEmpresa": "pepsi",
+        "codigo": "2524",
+        "area": "nacional",
+        "id_key": "0"
+    },
+    {
+        "id": "2e3064fa-6f9a-452a-b2ad-688714265ee7",
+        "nombreEmpresa": "kellogs",
+        "codigo": "3663",
+        "area": "regional",
+        "id_key": "1"
+    },
+    {
+        "id": "c7526995-590b-464a-a374-403adef2fe54",
+        "nombreEmpresa": "zucaritas",
+        "codigo": "7891",
+        "area": "regional",
+        "id_key": "2"
+    },
+    {
+        "id": "94dabc0a-d1cc-4a4f-a0a7-0ec33b2bb93d",
+        "nombreEmpresa": "mazda",
+        "codigo": "1234",
+        "area": "regional",
+        "id_key": "3"
+    }
+]
